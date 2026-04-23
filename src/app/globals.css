@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* enable class-based dark mode */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* base smooth UI */
+* {
+  transition: all 0.2s ease;
+}
