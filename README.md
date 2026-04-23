@@ -5,8 +5,10 @@ This project simulates a real-world SaaS product with focus on **UX, design syst
 
 ---
 
-## 🚀 Live Features
-https://ankit82108.github.io/order-management-system/
+## 🚀 Live Demo
+
+🌐 Click here to view the project:  
+👉 [Order Management System](http://13.61.67.160)
 
 ## 🌐 Live Demo
 
